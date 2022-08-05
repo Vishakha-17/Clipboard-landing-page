@@ -41,7 +41,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution](https://github.com/Vishakha-17/Clipboard-landing-page.git)
 - Live Site URL: [Clipboard-landing-page](https://vishakha-17.github.io/Clipboard-landing-page/)
 
 ## My process
